@@ -4,11 +4,11 @@
 
 ## Domain : Data science intern
 
-#### Customer Segment Prediction
-### Task 1: Initial Data Exploration
-### Task 2: Create Scatter Plot between Annual Income & Spending Scoreending Score
-### Task 3: Perform Scaling using MinMaxScaler
-### Task 4: Develop Clusters using KMeans
+### Customer Segment Prediction
+#### Task 1: Initial Data Exploration
+#### Task 2: Create Scatter Plot between Annual Income & Spending Scoreending Score
+#### Task 3: Perform Scaling using MinMaxScaler
+#### Task 4: Develop Clusters using KMeans
 #### Technology : Python, Pandas, Sklearn
 #### Code Editor: Jupyter Notebook
 
