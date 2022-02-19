@@ -2,7 +2,7 @@
 
 ## Collage Ranker India Internship Program
 
-## Domain : Data science intern
+### Domain : Data science intern
 
 ### Customer Segment Prediction
 #### Task 1: Initial Data Exploration
